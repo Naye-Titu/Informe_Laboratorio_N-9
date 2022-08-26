@@ -54,6 +54,7 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 ![image](https://user-images.githubusercontent.com/105722861/186797457-f1601ec4-2173-4f2e-a9f5-78865fbb3061.png)
 
+![image](https://user-images.githubusercontent.com/105722861/186804168-f8a9da23-80d9-4b01-bb62-afe68f5fb388.png)
 
 4.2 Sin emplear calculadora. Transforme a su forma rectangular
 
