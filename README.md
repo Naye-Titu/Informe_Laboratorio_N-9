@@ -75,9 +75,9 @@ resultados.
 
 * Primera parte 
 
-![image](https://user-images.githubusercontent.com/105722861/186798178-2c06e70d-af6a-48ee-b245-5d0dbd4e9500.png)
-
 ![image](https://user-images.githubusercontent.com/105722861/186798172-a8beffde-7205-4c2b-a59e-20591d6ee9bf.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186798178-2c06e70d-af6a-48ee-b245-5d0dbd4e9500.png)
 
 * Segunda parte
 
