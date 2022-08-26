@@ -96,6 +96,8 @@ resultados.
 
 5.- VIDEO
 
+https://www.youtube.com/watch?v=ecxIMJ-UiuQ
+
 6.- CONCLUSIONES
 
 * Un fasor puede ser representado por número complejos, el cual contiene una parte real y una parte imaginaria. En forma rectangular un número complejo se puede simbolizar como un punto en un plano de dos dimensiones.
